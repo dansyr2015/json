@@ -1,7 +1,4 @@
-# json
-for server json
+# json for server json
+Visit https://my-json-server.typicode.com/dansyr2015/json to access your server
 
-How to
-Create a repository on GitHub (<your-username>/<your-repo>)
-Create a db.json file
-Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
+By: Danny Wehbi
